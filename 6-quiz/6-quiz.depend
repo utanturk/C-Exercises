@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659277726 source:c:\users\itant\desktop\exercises\6-quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+
